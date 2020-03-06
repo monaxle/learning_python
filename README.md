@@ -1,3 +1,3 @@
 # learning_python
 
-My efforts to learn coding.
+Simple intro / beginner codes.
