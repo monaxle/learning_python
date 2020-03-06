@@ -1,3 +1,3 @@
-# learning_python
+# Learning to code with Python.
 
 Simple intro / beginner codes.
