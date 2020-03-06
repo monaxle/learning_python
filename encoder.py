@@ -1,5 +1,5 @@
 def encoder():
-    '''This function coverts a user entered string to the NATO phonetic alphabet and more code'''
+    '''This function coverts a user entered string to the NATO phonetic alphabet and morse code'''
 
     import textwrap
 
