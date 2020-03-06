@@ -1,2 +1,3 @@
 # learning_python
-python basics.  
+
+My efforts to learn coding.
