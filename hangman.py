@@ -144,7 +144,7 @@ def hangman():
             display = ''.join(answer)  # looks better formatted as a string
             print(display.upper())
 
-    print('Well done! You got it!', display.upper(), 'was the word.')
+    print('\nWell done! You got it!', display.upper(), 'was the word.')
     wp = 'https://www.onelook.com/?w=' + display  # opens up a web page with a definition of the word.
     webbrowser.open(wp)
     hangman()
