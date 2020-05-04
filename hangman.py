@@ -11,7 +11,7 @@ def hangman():
     print("\nLet's play Hangman!")
     print('-' * 19, '\n')
 
-    answer = '-' * len(word)
+    answer = '_' * len(word)
     answer = list(
         answer)  # this an the line above provides the blank asnwer template. Made to a list for index pop and insert.
     noose = 0  # the incrementor for wrong guesses
